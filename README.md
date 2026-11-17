@@ -1,4 +1,4 @@
-# Satisfaction PVP
+
 # Satisfaction PvP
 
 **See your rank, your Elo, and your progress at a glance — on every multiplayer server.**
