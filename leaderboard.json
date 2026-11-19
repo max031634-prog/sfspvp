@@ -1,19 +1,19 @@
 [
   {
-    "name": "MacrosAbuser",
-    "elo": 1319,
-    "wins": 79,
-    "losses": 61,
-    "tier": "LT3",
-    "rating": 48
-  },
-  {
     "name": "M3wzs",
     "elo": 1225,
     "wins": 45,
     "losses": 32,
     "tier": "HT4",
     "rating": 42
+  },
+  {
+    "name": "MacrosAbuser",
+    "elo": 1175,
+    "wins": 13,
+    "losses": 13,
+    "tier": "HT5",
+    "rating": 24
   },
   {
     "name": "Mr_Snky",
