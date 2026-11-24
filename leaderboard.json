@@ -13,8 +13,8 @@
     "elo": 1201,
     "wins": 17,
     "losses": 16,
-    "tier": "HT4",
-    "rating": 35,
+    "tier": "LT4",
+    "rating": 34,
     "kits": {
       "sword": {
         "elo": 1201,
@@ -38,11 +38,11 @@
         "rating": 12
       },
       "spearmace": {
-        "elo": 1076,
-        "wins": 84,
+        "elo": 1082,
+        "wins": 85,
         "losses": 43,
         "tier": "LT4",
-        "rating": 32
+        "rating": 31
       }
     }
   },
