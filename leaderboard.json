@@ -14,7 +14,7 @@
     "wins": 17,
     "losses": 16,
     "tier": "LT4",
-    "rating": 27,
+    "rating": 33,
     "kits": {
       "sword": {
         "elo": 1201,
@@ -36,6 +36,13 @@
         "losses": 5,
         "tier": "LT5",
         "rating": 12
+      },
+      "mace": {
+        "elo": 1000,
+        "wins": 1,
+        "losses": 0,
+        "tier": "LT5",
+        "rating": 9
       },
       "spearmace": {
         "elo": 1073,
