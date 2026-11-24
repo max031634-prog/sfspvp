@@ -5,7 +5,46 @@
     "wins": 45,
     "losses": 32,
     "tier": "HT4",
-    "rating": 42
+    "rating": 42,
+    "kits": {}
+  },
+  {
+    "name": "Stambau",
+    "elo": 1201,
+    "wins": 17,
+    "losses": 16,
+    "tier": "LT4",
+    "rating": 27,
+    "kits": {
+      "sword": {
+        "elo": 1201,
+        "wins": 17,
+        "losses": 16,
+        "tier": "LT4",
+        "rating": 33
+      },
+      "nether": {
+        "elo": 1006,
+        "wins": 1,
+        "losses": 0,
+        "tier": "LT5",
+        "rating": 10
+      },
+      "crystal": {
+        "elo": 1035,
+        "wins": 18,
+        "losses": 5,
+        "tier": "LT5",
+        "rating": 12
+      },
+      "spearmace": {
+        "elo": 1086,
+        "wins": 82,
+        "losses": 40,
+        "tier": "LT4",
+        "rating": 32
+      }
+    }
   },
   {
     "name": "MacrosAbuser",
@@ -13,7 +52,8 @@
     "wins": 13,
     "losses": 13,
     "tier": "HT5",
-    "rating": 23
+    "rating": 23,
+    "kits": {}
   },
   {
     "name": "Mr_Snky",
@@ -21,6 +61,7 @@
     "wins": 5,
     "losses": 4,
     "tier": "LT3",
-    "rating": 47
+    "rating": 47,
+    "kits": {}
   }
 ]
