@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Stambau",
+    "elo": 1035,
+    "wins": 18,
+    "losses": 5,
+    "tier": "LT5",
+    "rating": 12,
+    "kits": {}
+  }
+]
