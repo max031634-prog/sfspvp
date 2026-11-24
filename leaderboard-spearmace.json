@@ -1,11 +1,11 @@
 [
   {
     "name": "Stambau",
-    "elo": 1078,
+    "elo": 1058,
     "wins": 89,
-    "losses": 45,
+    "losses": 46,
     "tier": "LT4",
-    "rating": 29,
+    "rating": 28,
     "kits": {}
   }
 ]
