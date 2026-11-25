@@ -19,18 +19,18 @@
   },
   {
     "name": "Stambau",
-    "elo": 1167,
+    "elo": 1144,
     "wins": 17,
-    "losses": 17,
+    "losses": 18,
     "tier": "HT5",
-    "rating": 24,
+    "rating": 22,
     "kits": {
       "sword": {
-        "elo": 1167,
+        "elo": 1144,
         "wins": 17,
-        "losses": 17,
+        "losses": 18,
         "tier": "LT4",
-        "rating": 31
+        "rating": 30
       },
       "nether": {
         "elo": 1006,
