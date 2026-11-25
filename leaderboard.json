@@ -9,19 +9,28 @@
     "kits": {}
   },
   {
+    "name": "MacrosAbuser",
+    "elo": 1175,
+    "wins": 13,
+    "losses": 13,
+    "tier": "HT5",
+    "rating": 23,
+    "kits": {}
+  },
+  {
     "name": "Stambau",
-    "elo": 1201,
+    "elo": 1167,
     "wins": 17,
-    "losses": 16,
-    "tier": "LT4",
-    "rating": 30,
+    "losses": 17,
+    "tier": "HT5",
+    "rating": 24,
     "kits": {
       "sword": {
-        "elo": 1201,
+        "elo": 1167,
         "wins": 17,
-        "losses": 16,
+        "losses": 17,
         "tier": "LT4",
-        "rating": 33
+        "rating": 31
       },
       "nether": {
         "elo": 1006,
@@ -52,15 +61,6 @@
         "rating": 27
       }
     }
-  },
-  {
-    "name": "MacrosAbuser",
-    "elo": 1175,
-    "wins": 13,
-    "losses": 13,
-    "tier": "HT5",
-    "rating": 23,
-    "kits": {}
   },
   {
     "name": "Mr_Snky",
