@@ -22,7 +22,7 @@
     "elo": 1118,
     "wins": 17,
     "losses": 19,
-    "tier": "HT5",
+    "tier": "LT4",
     "rating": 25,
     "kits": {
       "sword": {
@@ -56,7 +56,7 @@
       "spearmace": {
         "elo": 1019,
         "wins": 97,
-        "losses": 57,
+        "losses": 58,
         "tier": "HT5",
         "rating": 24
       }
