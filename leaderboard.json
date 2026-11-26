@@ -23,7 +23,7 @@
     "wins": 17,
     "losses": 20,
     "tier": "HT5",
-    "rating": 19,
+    "rating": 20,
     "kits": {
       "sword": {
         "elo": 1105,
@@ -40,11 +40,11 @@
         "rating": 10
       },
       "crystal": {
-        "elo": 1035,
-        "wins": 18,
+        "elo": 1041,
+        "wins": 19,
         "losses": 5,
-        "tier": "LT5",
-        "rating": 12
+        "tier": "LT4",
+        "rating": 28
       },
       "mace": {
         "elo": 1000,
