@@ -20,14 +20,14 @@
   {
     "name": "Stambau",
     "elo": 1107,
-    "wins": 18,
+    "wins": 19,
     "losses": 20,
     "tier": "HT5",
     "rating": 19,
     "kits": {
       "sword": {
         "elo": 1107,
-        "wins": 18,
+        "wins": 19,
         "losses": 20,
         "tier": "LT4",
         "rating": 28
