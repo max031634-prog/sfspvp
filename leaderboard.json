@@ -19,15 +19,15 @@
   },
   {
     "name": "Stambau",
-    "elo": 1105,
-    "wins": 17,
+    "elo": 1107,
+    "wins": 18,
     "losses": 20,
     "tier": "HT5",
-    "rating": 20,
+    "rating": 22,
     "kits": {
       "sword": {
-        "elo": 1105,
-        "wins": 17,
+        "elo": 1107,
+        "wins": 18,
         "losses": 20,
         "tier": "LT4",
         "rating": 28
@@ -41,7 +41,7 @@
       },
       "crystal": {
         "elo": 1041,
-        "wins": 19,
+        "wins": 20,
         "losses": 5,
         "tier": "LT4",
         "rating": 28
