@@ -32,6 +32,13 @@
         "tier": "LT4",
         "rating": 29
       },
+      "uhc": {
+        "elo": 1000,
+        "wins": 1,
+        "losses": 0,
+        "tier": "LT5",
+        "rating": 9
+      },
       "nether": {
         "elo": 1006,
         "wins": 1,
