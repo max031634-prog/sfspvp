@@ -48,10 +48,10 @@
       },
       "mace": {
         "elo": 1000,
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "tier": "LT5",
-        "rating": 9
+        "rating": 10
       },
       "spearmace": {
         "elo": 1076,
