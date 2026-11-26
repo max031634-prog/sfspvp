@@ -118,11 +118,11 @@
         "rating": 11
       },
       "spearmace": {
-        "elo": 1076,
+        "elo": 1056,
         "wins": 115,
-        "losses": 68,
+        "losses": 69,
         "tier": "LT4",
-        "rating": 29
+        "rating": 27
       }
     }
   },
